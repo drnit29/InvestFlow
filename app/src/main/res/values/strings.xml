@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InvestFlow</string>
+    
+    <!-- Menu and Navigation -->
+    <string name="nav_home">Início</string>
+    <string name="nav_projects">Projetos</string>
+    <string name="nav_create_project">Novo Projeto</string>
+    <string name="nav_view_project">Detalhes do Projeto</string>
+    <string name="nav_cash_flow">Fluxo de Caixa</string>
+    <string name="nav_settings">Configurações</string>
+    
+    <!-- Project Management -->
+    <string name="project_name">Nome do Projeto</string>
+    <string name="project_description">Descrição</string>
+    <string name="project_start_date">Data de Início</string>
+    <string name="project_create">Criar Projeto</string>
+    <string name="project_update">Atualizar Projeto</string>
+    <string name="project_delete">Excluir Projeto</string>
+    <string name="project_irr">TIR (Taxa Interna de Retorno)</string>
+    <string name="project_npv">VPL (Valor Presente Líquido)</string>
+    <string name="project_payback">Payback</string>
+    
+    <!-- Cash Flow -->
+    <string name="cash_flow_date">Data</string>
+    <string name="cash_flow_type">Tipo</string>
+    <string name="cash_flow_amount">Valor</string>
+    <string name="cash_flow_description">Descrição</string>
+    <string name="cash_flow_category">Categoria</string>
+    <string name="cash_flow_inflow">Entrada</string>
+    <string name="cash_flow_outflow">Saída</string>
+    <string name="cash_flow_add">Adicionar Transação</string>
+    <string name="cash_flow_edit">Editar Transação</string>
+    <string name="cash_flow_delete">Excluir Transação</string>
+    
+    <!-- Financial Analysis -->
+    <string name="discount_rate">Taxa de Desconto (TMA)</string>
+    <string name="analysis_calculate">Calcular Indicadores</string>
+    <string name="analysis_results">Resultados da Análise</string>
+    <string name="payback_years">anos</string>
+    <string name="payback_months">meses</string>
+    <string name="payback_days">dias</string>
+    
+    <!-- Actions -->
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="confirm">Confirmar</string>
+    
+    <!-- Messages -->
+    <string name="loading">Carregando…</string>
+    <string name="error_generic">Ocorreu um erro. Tente novamente.</string>
+    <string name="success_saved">Salvo com sucesso!</string>
+    <string name="success_deleted">Excluído com sucesso!</string>
+    <string name="confirm_delete">Tem certeza que deseja excluir?</string>
+    <string name="no_projects">Nenhum projeto encontrado. Crie um novo!</string>
+    <string name="no_transactions">Nenhuma transação registrada.</string>
+</resources>
